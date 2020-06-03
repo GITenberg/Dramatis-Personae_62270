@@ -1,0 +1,32 @@
+_repo: Dramatis-Personae_62270
+_version: 0.0.1
+alternative_title: Dramatis Personae
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Symons
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Conrad -- Maurice Maeterlinck -- Emily Brontë -- On English and
+  French fiction -- On criticism -- The decadent movement in literature -- The Rossettis
+  -- Confessions and comments -- Francis Thompson -- Coventry Patmore -- Sir William
+  Watson -- Emil Verhaeren -- A neglected genius: Sir Richard Burton -- Edgar Saltus
+  -- Recollections of Réjane -- The Russian ballets -- On Hamlet and Hamlets -- Leonardo
+  da Vinci -- Impressionistic writing -- Paradoxes on poets.'
+title: Dramatis Personæ
+url: http://www.gutenberg.org/ebooks/62270
